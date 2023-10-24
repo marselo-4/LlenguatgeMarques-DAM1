@@ -8,3 +8,4 @@
 
 ![Alt text](/assets/wireframe.pdf)
 <iframe src="https://docs.google.com/gview?url=https://marselo-4.github.io/LlenguatgeMarques-DAM1/assets/wireframe.pdf&embedded=true" style="width: 70%; height: 70%;"frameborder="0" ></iframe>
+[wireframe.pdf](https://github.com/marselo-4/LlenguatgeMarques-DAM1/files/13131385/wireframe.pdf)
